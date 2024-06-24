@@ -97,6 +97,10 @@ ol, ul {
     color: white; /* Warna teks ketika dihover atau aktif */
 }
 
+.table {
+    font-family: 'Poppins', sans-serif;
+}
+
 </style>
 
 <div class="row">
@@ -107,7 +111,7 @@ ol, ul {
     <h1>PT. Jamkrida NTB Syariah</h1>
     <hr class="animated-hr">
     <br>
-    <p style='text-align: justify'>Sesuai Akta Pendirian nomor 24 tanggal 15 Oktober 2012 Modal Dasar Perseroan ditetapkan sebesar Rp. 75.000.000.000,- (Tujuh Puluh Lima Milyar Rupiah) terdiri dari 75.000,- lembar saham dengan nilai masing-masing lembar saham sebesar Rp. 1.000.000,- (Satu Juta Rupiah).<br>Dari modal Dasar Perseroan tersebut sampai dengan 31 Desember 2023 telah disetor oeh Pemegang Saham sebesar Rp. 32.800.000.000,- (Tiga Puluh Dua Milyar delapan ratus juta Rupiah) dengan rincian sebagai berikut:</p>
+    <p style='text-align: justify'>Sesuai Akta Pendirian nomor 24 tanggal 15 Oktober 2012 Modal Dasar Perseroan ditetapkan sebesar Rp. 75.000.000.000,- (Tujuh Puluh Lima Milyar Rupiah) terdiri dari 75.000,- lembar saham dengan nilai masing-masing lembar saham sebesar Rp. 1.000.000,- (Satu Juta Rupiah).<br>Dari modal Dasar Perseroan tersebut sampai dengan 31 Desember 2023 telah disetor oleh Pemegang Saham sebesar Rp. 32.800.000.000,- (Tiga Puluh Dua Milyar delapan ratus juta Rupiah) dengan rincian sebagai berikut:</p>
     
     <table class="table table-bordered">
         <thead>
