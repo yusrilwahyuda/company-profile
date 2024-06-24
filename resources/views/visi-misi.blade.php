@@ -50,7 +50,7 @@
 }
 
 li {
-    text-align: left;
+    text-align: justify;
 }
 
 ol, ul {
@@ -97,6 +97,10 @@ ol, ul {
     color: white; /* Warna teks ketika dihover atau aktif */
 }
 
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 </style>
 
 <div class="row">
@@ -110,12 +114,12 @@ ol, ul {
     <p style='text-align: justify'>"Terwujudnya perusahaan penjamin kredit daerah yang sehat, berdaya saing dan mampu mendorong pertumbuhan ekonomi daerah"</p>
     <h3>Misi | PT. Jamkrida NTB Syariah</h3>
     <p style='text-align: justify'>
-        <ul>
-            <li> - Mengembangkan bisnis perusahaan sehingga mampu menguasai sebagian besar pasar bisnis penjaminan kredit di NTB terutama bisnis penjaminan kredit usaha produktif (Kredit Mikro, Kecil, Menengah dan Koperasi) dan kredit Non-Produktif lain (seperti KSG dan KPR) yang berada pada berbagai Bank terutama Bank milik Pemerintah Provinsi/Pemerintah Kabupaten/Pemerintah Kota.</li>
-            <li> - Mengembangkan bisnis penjaminan untuk proyek pengadaan barang dan jasa yang dibiayai APBN, APBD I dan APBD II se-NTB.</li>
-            <li> - Memperkuat askes permodalan usaha bagi pelaku ekonomi skala kecil yang tidak memiliki agunan namun memiliki prospek usaha yang baik</li>
-            <li> - Memberikan proteksi terhadap kemungkinan terjadinya kredit macet pada kredit mikro, kecil dan koperasi</li>
-            <li> - Mewujudkan BUMD yang mampu memberikan kontribusi positif pada peningkatan PAD NTB maupun PAD masing-masing kabupaten/kota.</li>
+        <ul style='list-style: number;'>
+            <li>Mengembangkan bisnis perusahaan sehingga mampu menguasai sebagian besar pasar bisnis penjaminan kredit di NTB terutama bisnis penjaminan kredit usaha produktif (Kredit Mikro, Kecil, Menengah dan Koperasi) dan kredit Non-Produktif lain (seperti KSG dan KPR) yang berada pada berbagai Bank terutama Bank milik Pemerintah Provinsi/Pemerintah Kabupaten/Pemerintah Kota.</li>
+            <li>Mengembangkan bisnis penjaminan untuk proyek pengadaan barang dan jasa yang dibiayai APBN, APBD I dan APBD II se-NTB.</li>
+            <li>Memperkuat askes permodalan usaha bagi pelaku ekonomi skala kecil yang tidak memiliki agunan namun memiliki prospek usaha yang baik</li>
+            <li>Memberikan proteksi terhadap kemungkinan terjadinya kredit macet pada kredit mikro, kecil dan koperasi</li>
+            <li>Mewujudkan BUMD yang mampu memberikan kontribusi positif pada peningkatan PAD NTB maupun PAD masing-masing kabupaten/kota.</li>
         </ul>
     </p>
     </div></div></div>
