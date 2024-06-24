@@ -7,6 +7,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    /* font-family: 'Poppins', sans-serif; */
 }
 
 .card-container {
@@ -327,6 +328,7 @@ nav .right a{
 .nav-link {
     color: #1c8452;;
     text-align: right;
+    font-family: 'Poppins', sans-serif;
 }
 
 .nav-link:hover {
@@ -337,6 +339,7 @@ nav .right a{
     display: block;
     margin-top: 0;
     border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .nav-item:hover .dropdown-item {

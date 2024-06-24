@@ -261,6 +261,7 @@ nav .right a{
 .nav-link {
     color: white;
     text-align: right;
+    font-family: 'Poppins', sans-serif;
 }
 
 .nav-item:hover .dropdown-item {
@@ -275,6 +276,7 @@ nav .right a{
     display: block;
     margin-top: 0;
     border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .nav-item:hover .dropdown-item:hover {
